@@ -35,8 +35,8 @@ You need to have Node.js and npm installed, along with access to a MongoDB insta
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <YOUR_REPO_URL_HERE>
-    cd <YOUR_REPO_NAME>
+    git clone https://github.com/ssyaramwar/Node-Auth-API
+    cd Node-Auth-API
     ```
 
 2.  **Install Dependencies:**
